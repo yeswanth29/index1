@@ -1,0 +1,44 @@
+.form{
+	font color:grey;
+	text-align:right;
+	padding:0% 10% 0% 10%;
+}
+
+.para{
+        text-align :center;
+	color:grey;
+
+
+}
+*{
+	color:grey;
+}
+.img{
+	 padding:0% 10% 0% 15%;
+	position:absolute;
+	top:-30px;
+}
+.lav{
+	text-align:left;
+	padding:0% 15% 0% 15%;
+}
+.pic{
+	position:absolute;
+	top:+120px;
+
+}
+.line{
+	padding:0% 10% 0% 15%;
+}
+.appi{
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    text-orientation: sideways-right;
+    border: 1px solid blue;    
+    background-color: yellow; 
+}
+.names{
+
+text-orientation: sideways-right;
+}
